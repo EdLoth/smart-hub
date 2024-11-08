@@ -9,8 +9,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        lothSky: "#C3EBFA",
+        lothSkyLight: "#EDF9FD",
+        lothPurple: "#CFCEFF",
+        lothPurpleLight: "#F1F0FF",
+        lothYellow: "#FAE27C",
+        lothYellowLight: "#FEFCE8",
       },
     },
   },
