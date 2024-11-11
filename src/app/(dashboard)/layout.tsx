@@ -11,7 +11,7 @@ export default function DashboardLayout({
     <div className="h-screen flex">
       <div className="w-[14%] md:w-[8%] lg:w-[16%] xl:w-[14%] p-4">
         <Link href="/" className="flex items-center justify-center lg:justify-start gap-2">
-          <Image src="logo.svg" alt="logo" width={32} height={32} />
+          <Image src="/logo.svg" alt="logo" width={32} height={32} />
           <h2 className="hidden lg:block font-bold">SmartHub</h2>
         </Link>
         <Menu />
